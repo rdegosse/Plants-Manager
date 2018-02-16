@@ -26,7 +26,6 @@
   {"name": "remove_all_metadata", "label": "Remove All meta data (Yes or No)", "value": "No"},
   {"name": "save_meta_key", "label": "Save in meta data : key", "value": "None"},
   {"name": "save_meta_value", "label": "Save in meta data : value", "value": "None"},
-  {"name": "save_date", "label": "Save New Date (YY-MM-DD HH:MM:SS or #NOW# or None)", "value": "None"},
   {"name": "debug", "label": "Debug (0-> Save Data, 1-> Save Data + debug log, 2-> Simulation / log only)", "value": 1}
   ]
 }
