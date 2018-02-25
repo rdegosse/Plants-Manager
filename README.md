@@ -10,7 +10,7 @@ Load plants with filters and change plants data
 -- Do ---
 
 - Load all plants for current device
-- Filter plants with Plant name, Openfarm Slug Name, Plant Age in day range, Meta data key/value
+- Filter plants with Plant id, Plant name, Openfarm Slug Name, Plant Age in day range, Meta data key/value, Coordinates
 - Loop all filtered plants
     - Update plant data
 
